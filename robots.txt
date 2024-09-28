@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ariniesis.github.io/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/app/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/assets/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/css/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/data/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/includes/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/item/sitemap.ariniesis.gz
+Sitemap: https://ariniesis.github.io/src/sitemap.ariniesis.gz
